@@ -1,3 +1,7 @@
-# Hunan Huang Homepage
-Name: Hunan Huang
-Email: 2242863@mail.dhu.edu.cn
+# Hunan Huang
+
+## Contact
+- **Email:** 2242863@mail.dhu.edu.cn
+
+## About
+This homepage is used to share my academic and research-related information.
